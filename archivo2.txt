@@ -1,2 +1,4 @@
 ya casi prro aaaahhh
+git add
 git commit -m "Comentario especifico"
+git push
